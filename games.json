@@ -2387,13 +2387,14 @@
       "title": "Does not Commute",
       "platform": "Apple",
       "system": "iOS",
-      "status": "unknown",
+      "status": "unfinished",
       "proof": "",
       "lastPlayed": "2015",
       "platinum": false,
-      "note": "No completion achievement",
+      "note": "0 of 12; no completion achievement",
       "cover": "covers/apple/does-not-commute.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Color Defense - Tower Strategy",
