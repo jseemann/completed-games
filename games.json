@@ -2871,23 +2871,46 @@
       "note": "No ending",
       "cover": "covers/apple/mega-jump.webp",
       "coverFit": "square"
+    },
+    {
+      "title": "Mass Effect",
+      "platform": "Steam",
+      "system": "PC",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "No Steam achievements; marked unfinished by me",
+      "cover": "covers/steam/17460.webp",
+      "steamAppId": 17460,
+      "manual": true
+    },
+    {
+      "title": "Darwinia",
+      "platform": "Steam",
+      "system": "PC",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "No Steam achievements; marked unfinished by me",
+      "cover": "covers/steam/1500.webp",
+      "steamAppId": 1500,
+      "manual": true
+    },
+    {
+      "title": "Everyday Shooter",
+      "platform": "Steam",
+      "system": "PC",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "No Steam achievements; marked unfinished by me",
+      "cover": "covers/steam/16300.webp",
+      "steamAppId": 16300,
+      "manual": true
     }
   ],
-  "excluded": [
-    {
-      "platform": "Steam",
-      "title": "Mass Effect",
-      "steamAppId": 17460
-    },
-    {
-      "platform": "Steam",
-      "title": "Darwinia",
-      "steamAppId": 1500
-    },
-    {
-      "platform": "Steam",
-      "title": "Everyday Shooter",
-      "steamAppId": 16300
-    }
-  ]
+  "excluded": []
 }
