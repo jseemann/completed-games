@@ -2425,13 +2425,14 @@
       "title": "Kingdom Rush Frontiers TD+",
       "platform": "Apple",
       "system": "Apple Arcade",
-      "status": "unfinished",
-      "proof": "",
+      "status": "beaten",
+      "proof": "Confirmed by me",
       "lastPlayed": "2025-07",
       "platinum": false,
-      "note": "10 of 85",
+      "note": "",
       "cover": "covers/apple/kingdom-rush-frontiers-td.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Peglin",
