@@ -81,6 +81,10 @@ There is no web page for Game Center. The data is only in the **Games** app on J
 - Use the background `app_*` tools; don't take over Jason's screen.
 - Icons: the iTunes Search API (`https://itunes.apple.com/search?term=…&entity=software`) works with `curl`. Check that `trackName` actually matches before using `artworkUrl512`, because search often returns a sequel or an unrelated app. Save as WebP at `covers/apple/<slug>.webp`, resized to 256px.
 
+## Nintendo
+
+Nintendo has no achievement system to read. Switch games are added by hand when Jason names them, marked `manual: true`, and dated by their Switch release year (`dateIsRelease: true`). Skip Nintendo on scheduled runs.
+
 ## Finish
 
 1. Validate `games.json` (it must parse, and every `cover` path must exist).

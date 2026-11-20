@@ -3,7 +3,8 @@
   "sources": {
     "PlayStation": "https://psnprofiles.com/MayoTheCondiment",
     "Steam": "https://steamcommunity.com/id/maondas/",
-    "Apple": "Game Center (Games app)"
+    "Apple": "Game Center (Games app)",
+    "Nintendo": "Added by hand"
   },
   "games": [
     {
@@ -2909,6 +2910,54 @@
       "note": "No Steam achievements; marked unfinished by me",
       "cover": "covers/steam/16300.webp",
       "steamAppId": 16300,
+      "manual": true
+    },
+    {
+      "title": "Mario Kart 8 Deluxe",
+      "platform": "Nintendo",
+      "system": "Switch",
+      "status": "beaten",
+      "proof": "Confirmed by me",
+      "lastPlayed": "2017",
+      "dateIsRelease": true,
+      "platinum": false,
+      "note": "",
+      "manual": true
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "platform": "Nintendo",
+      "system": "Switch",
+      "status": "beaten",
+      "proof": "Confirmed by me",
+      "lastPlayed": "2017",
+      "dateIsRelease": true,
+      "platinum": false,
+      "note": "",
+      "manual": true
+    },
+    {
+      "title": "Dark Souls: Remastered",
+      "platform": "Nintendo",
+      "system": "Switch",
+      "status": "beaten",
+      "proof": "Confirmed by me",
+      "lastPlayed": "2018",
+      "dateIsRelease": true,
+      "platinum": false,
+      "note": "",
+      "manual": true
+    },
+    {
+      "title": "Crayola Scoot",
+      "platform": "Nintendo",
+      "system": "Switch",
+      "status": "beaten",
+      "proof": "Confirmed by me",
+      "lastPlayed": "2018",
+      "dateIsRelease": true,
+      "platinum": false,
+      "note": "",
       "manual": true
     }
   ],

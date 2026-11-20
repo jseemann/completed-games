@@ -229,7 +229,7 @@ fetch("games.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
   document.getElementById("sub").textContent =
     `${d.games.filter(g => g.status === "beaten").length} games played to the credits, across every platform I own.`;
   document.getElementById("foot").innerHTML = `Last updated ${esc(d.updated)}. Sources: ` +
-    Object.entries(d.sources).map(([k, v]) => `<a href="${esc(v)}">${esc(k)}</a>`).join(", ") + ".";
+    Object.entries(d.sources).map(([k, v]) => /^https?:/.test(v) ? `<a href="${esc(v)}">${esc(k)}</a>` : `${esc(k)} (${esc(v)})`).join(", ") + ".";
   renderStats();
   render();
 });
