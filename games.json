@@ -926,7 +926,7 @@
       "lastPlayed": "2007",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg",
+      "cover": "covers/steam/400.webp",
       "steamAppId": 400,
       "dateIsRelease": true
     },
@@ -939,7 +939,7 @@
       "lastPlayed": "2012-05",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+      "cover": "covers/steam/620.webp",
       "steamAppId": 620
     },
     {
@@ -951,7 +951,7 @@
       "lastPlayed": "2012-06",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg",
+      "cover": "covers/steam/3830.webp",
       "steamAppId": 3830
     },
     {
@@ -963,7 +963,7 @@
       "lastPlayed": "2013-08",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6120/header.jpg",
+      "cover": "covers/steam/6120.webp",
       "steamAppId": 6120
     },
     {
@@ -975,7 +975,7 @@
       "lastPlayed": "2016-04",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/102840/header.jpg",
+      "cover": "covers/steam/102840.webp",
       "steamAppId": 102840
     },
     {
@@ -987,7 +987,7 @@
       "lastPlayed": "2013-08",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg",
+      "cover": "covers/steam/8190.webp",
       "steamAppId": 8190
     },
     {
@@ -999,7 +999,7 @@
       "lastPlayed": "2011-01",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/18000/header.jpg",
+      "cover": "covers/steam/18000.webp",
       "steamAppId": 18000
     },
     {
@@ -1011,7 +1011,7 @@
       "lastPlayed": "2011-02",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/18020/header.jpg",
+      "cover": "covers/steam/18020.webp",
       "steamAppId": 18020
     },
     {
@@ -1023,7 +1023,7 @@
       "lastPlayed": "2015-01",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/18500/header.jpg",
+      "cover": "covers/steam/18500.webp",
       "steamAppId": 18500
     },
     {
@@ -1035,7 +1035,7 @@
       "lastPlayed": "2009-12",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20710/header.jpg",
+      "cover": "covers/steam/20710.webp",
       "steamAppId": 20710
     },
     {
@@ -1047,7 +1047,7 @@
       "lastPlayed": "2015-01",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/header.jpg",
+      "cover": "covers/steam/20920.webp",
       "steamAppId": 20920
     },
     {
@@ -1059,7 +1059,7 @@
       "lastPlayed": "2009-12",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22000/header.jpg",
+      "cover": "covers/steam/22000.webp",
       "steamAppId": 22000
     },
     {
@@ -1071,7 +1071,7 @@
       "lastPlayed": "2009-12",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/header.jpg",
+      "cover": "covers/steam/26800.webp",
       "steamAppId": 26800
     },
     {
@@ -1083,7 +1083,7 @@
       "lastPlayed": "2017-07",
       "platinum": false,
       "note": "Dark world still open",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/header.jpg",
+      "cover": "covers/steam/40800.webp",
       "steamAppId": 40800
     },
     {
@@ -1095,7 +1095,7 @@
       "lastPlayed": "2010-11",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41500/header.jpg",
+      "cover": "covers/steam/41500.webp",
       "steamAppId": 41500
     },
     {
@@ -1107,7 +1107,7 @@
       "lastPlayed": "2013-05",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50300/header.jpg",
+      "cover": "covers/steam/50300.webp",
       "steamAppId": 50300
     },
     {
@@ -1119,7 +1119,7 @@
       "lastPlayed": "2014-08",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/55230/header.jpg",
+      "cover": "covers/steam/55230.webp",
       "steamAppId": 55230
     },
     {
@@ -1131,7 +1131,7 @@
       "lastPlayed": "2011-01",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/65400/header.jpg",
+      "cover": "covers/steam/65400.webp",
       "steamAppId": 65400
     },
     {
@@ -1143,7 +1143,7 @@
       "lastPlayed": "2012-05",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72850/header.jpg",
+      "cover": "covers/steam/72850.webp",
       "steamAppId": 72850
     },
     {
@@ -1155,7 +1155,7 @@
       "lastPlayed": "2011-12",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107100/header.jpg",
+      "cover": "covers/steam/107100.webp",
       "steamAppId": 107100
     },
     {
@@ -1167,7 +1167,7 @@
       "lastPlayed": "2015-05",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107800/header.jpg",
+      "cover": "covers/steam/107800.webp",
       "steamAppId": 107800
     },
     {
@@ -1179,7 +1179,7 @@
       "lastPlayed": "2014-10",
       "platinum": false,
       "note": "Later chapters still open",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/header.jpg",
+      "cover": "covers/steam/113200.webp",
       "steamAppId": 113200
     },
     {
@@ -1191,7 +1191,7 @@
       "lastPlayed": "2016-07",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg",
+      "cover": "covers/steam/201810.webp",
       "steamAppId": 201810
     },
     {
@@ -1203,7 +1203,7 @@
       "lastPlayed": "2015-12",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg",
+      "cover": "covers/steam/204100.webp",
       "steamAppId": 204100
     },
     {
@@ -1215,7 +1215,7 @@
       "lastPlayed": "2014-10",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/header.jpg",
+      "cover": "covers/steam/206190.webp",
       "steamAppId": 206190
     },
     {
@@ -1227,7 +1227,7 @@
       "lastPlayed": "2021-05",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/header.jpg",
+      "cover": "covers/steam/212680.webp",
       "steamAppId": 212680
     },
     {
@@ -1239,7 +1239,7 @@
       "lastPlayed": "2015-12",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214770/header.jpg",
+      "cover": "covers/steam/214770.webp",
       "steamAppId": 214770
     },
     {
@@ -1251,7 +1251,7 @@
       "lastPlayed": "2016-01",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223220/header.jpg",
+      "cover": "covers/steam/223220.webp",
       "steamAppId": 223220
     },
     {
@@ -1263,7 +1263,7 @@
       "lastPlayed": "2015-06",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/header.jpg",
+      "cover": "covers/steam/236090.webp",
       "steamAppId": 236090
     },
     {
@@ -1275,7 +1275,7 @@
       "lastPlayed": "2015-10",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236430/header.jpg",
+      "cover": "covers/steam/236430.webp",
       "steamAppId": 236430
     },
     {
@@ -1287,7 +1287,7 @@
       "lastPlayed": "2016-08",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/header.jpg",
+      "cover": "covers/steam/237930.webp",
       "steamAppId": 237930
     },
     {
@@ -1299,7 +1299,7 @@
       "lastPlayed": "2014-08",
       "platinum": false,
       "note": "Beat it twice",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/header.jpg",
+      "cover": "covers/steam/241600.webp",
       "steamAppId": 241600
     },
     {
@@ -1311,7 +1311,7 @@
       "lastPlayed": "2016-05",
       "platinum": false,
       "note": "Plague / Specter / King campaigns open",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250760/header.jpg",
+      "cover": "covers/steam/250760.webp",
       "steamAppId": 250760
     },
     {
@@ -1323,7 +1323,7 @@
       "lastPlayed": "2016-06",
       "platinum": false,
       "note": "Later endings still open",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg",
+      "cover": "covers/steam/250900.webp",
       "steamAppId": 250900
     },
     {
@@ -1335,7 +1335,7 @@
       "lastPlayed": "2015-03",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255420/header.jpg",
+      "cover": "covers/steam/255420.webp",
       "steamAppId": 255420
     },
     {
@@ -1347,7 +1347,7 @@
       "lastPlayed": "2016-06",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262470/header.jpg",
+      "cover": "covers/steam/262470.webp",
       "steamAppId": 262470
     },
     {
@@ -1359,7 +1359,7 @@
       "lastPlayed": "2016-09",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/header.jpg",
+      "cover": "covers/steam/266210.webp",
       "steamAppId": 266210
     },
     {
@@ -1371,7 +1371,7 @@
       "lastPlayed": "2015-09",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/header.jpg",
+      "cover": "covers/steam/293260.webp",
       "steamAppId": 293260
     },
     {
@@ -1383,7 +1383,7 @@
       "lastPlayed": "2018-06",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323320/header.jpg",
+      "cover": "covers/steam/323320.webp",
       "steamAppId": 323320
     },
     {
@@ -1395,7 +1395,7 @@
       "lastPlayed": "2018-02",
       "platinum": false,
       "note": "Radiance / Godhome endings open",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+      "cover": "covers/steam/367520.webp",
       "steamAppId": 367520
     },
     {
@@ -1407,7 +1407,7 @@
       "lastPlayed": "2017-09",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+      "cover": "covers/steam/374320.webp",
       "steamAppId": 374320
     },
     {
@@ -1419,7 +1419,7 @@
       "lastPlayed": "2017-08",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
+      "cover": "covers/steam/379720.webp",
       "steamAppId": 379720
     },
     {
@@ -1431,7 +1431,7 @@
       "lastPlayed": "2016-12",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/header.jpg",
+      "cover": "covers/steam/384190.webp",
       "steamAppId": 384190
     },
     {
@@ -1443,7 +1443,7 @@
       "lastPlayed": "2020-11",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+      "cover": "covers/steam/435150.webp",
       "steamAppId": 435150
     },
     {
@@ -1455,7 +1455,7 @@
       "lastPlayed": "2020-04",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/header.jpg",
+      "cover": "covers/steam/590380.webp",
       "steamAppId": 590380
     },
     {
@@ -1467,7 +1467,7 @@
       "lastPlayed": "2021-01",
       "platinum": false,
       "note": "True ending (The Family Secret) open",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+      "cover": "covers/steam/1145360.webp",
       "steamAppId": 1145360
     },
     {
@@ -1479,7 +1479,7 @@
       "lastPlayed": "2012-06",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg",
+      "cover": "covers/steam/48000.webp",
       "steamAppId": 48000
     },
     {
@@ -1491,7 +1491,7 @@
       "lastPlayed": "2014-11",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108500/header.jpg",
+      "cover": "covers/steam/108500.webp",
       "steamAppId": 108500
     },
     {
@@ -1503,7 +1503,7 @@
       "lastPlayed": "2014-01",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225080/header.jpg",
+      "cover": "covers/steam/225080.webp",
       "steamAppId": 225080
     },
     {
@@ -1515,7 +1515,7 @@
       "lastPlayed": "2016-01",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269050/header.jpg",
+      "cover": "covers/steam/269050.webp",
       "steamAppId": 269050
     },
     {
@@ -1527,7 +1527,7 @@
       "lastPlayed": "2013",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/header.jpg",
+      "cover": "covers/steam/231160.webp",
       "steamAppId": 231160,
       "dateIsRelease": true
     },
@@ -1540,7 +1540,7 @@
       "lastPlayed": "2012",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228280/header.jpg",
+      "cover": "covers/steam/228280.webp",
       "steamAppId": 228280,
       "dateIsRelease": true
     },
@@ -1553,7 +1553,7 @@
       "lastPlayed": "2013-12",
       "platinum": false,
       "note": "Last 'Sea of Black Tears' done; no campaign-complete achievement",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/header.jpg",
+      "cover": "covers/steam/225260.webp",
       "steamAppId": 225260
     },
     {
@@ -1565,7 +1565,7 @@
       "lastPlayed": "2012-01",
       "platinum": false,
       "note": "3 of 4 areas cleared",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/65800/header.jpg",
+      "cover": "covers/steam/65800.webp",
       "steamAppId": 65800
     },
     {
@@ -1577,7 +1577,7 @@
       "lastPlayed": "2019-12",
       "platinum": false,
       "note": "2 of 6 main episodes",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/header.jpg",
+      "cover": "covers/steam/861540.webp",
       "steamAppId": 861540
     },
     {
@@ -1589,7 +1589,7 @@
       "lastPlayed": "2020-05",
       "platinum": false,
       "note": "Final boss Assatur not defeated",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42910/header.jpg",
+      "cover": "covers/steam/42910.webp",
       "steamAppId": 42910
     },
     {
@@ -1601,7 +1601,7 @@
       "lastPlayed": "2014-11",
       "platinum": false,
       "note": "Lord Dredmor not defeated",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/98800/header.jpg",
+      "cover": "covers/steam/98800.webp",
       "steamAppId": 98800
     },
     {
@@ -1613,7 +1613,7 @@
       "lastPlayed": "2017-04",
       "platinum": false,
       "note": "Early",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+      "cover": "covers/steam/292030.webp",
       "steamAppId": 292030
     },
     {
@@ -1625,7 +1625,7 @@
       "lastPlayed": "2014-09",
       "platinum": false,
       "note": "Part I not finished",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39140/header.jpg",
+      "cover": "covers/steam/39140.webp",
       "steamAppId": 39140
     },
     {
@@ -1637,7 +1637,7 @@
       "lastPlayed": "2011-12",
       "platinum": false,
       "note": "Final level not reached",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/94200/header.jpg",
+      "cover": "covers/steam/94200.webp",
       "steamAppId": 94200
     },
     {
@@ -1649,7 +1649,7 @@
       "lastPlayed": "2015-12",
       "platinum": false,
       "note": "Ice Caves",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239350/header.jpg",
+      "cover": "covers/steam/239350.webp",
       "steamAppId": 239350
     },
     {
@@ -1661,7 +1661,7 @@
       "lastPlayed": "2016-09",
       "platinum": false,
       "note": "Abarghus not defeated",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224820/header.jpg",
+      "cover": "covers/steam/224820.webp",
       "steamAppId": 224820
     },
     {
@@ -1673,7 +1673,7 @@
       "lastPlayed": "2011-12",
       "platinum": false,
       "note": "Campaign unfinished",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/98200/header.jpg",
+      "cover": "covers/steam/98200.webp",
       "steamAppId": 98200
     },
     {
@@ -1685,7 +1685,7 @@
       "lastPlayed": "2018-12",
       "platinum": false,
       "note": "Early",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+      "cover": "covers/steam/582010.webp",
       "steamAppId": 582010
     },
     {
@@ -1697,7 +1697,7 @@
       "lastPlayed": "2015-11",
       "platinum": false,
       "note": "Chapter 1",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243950/header.jpg",
+      "cover": "covers/steam/243950.webp",
       "steamAppId": 243950
     },
     {
@@ -1709,7 +1709,7 @@
       "lastPlayed": "2020-04",
       "platinum": false,
       "note": "Level 3 of 15",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/header.jpg",
+      "cover": "covers/steam/313690.webp",
       "steamAppId": 313690
     },
     {
@@ -1721,7 +1721,7 @@
       "lastPlayed": "2019-08",
       "platinum": false,
       "note": "Prologue",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480640/header.jpg",
+      "cover": "covers/steam/480640.webp",
       "steamAppId": 480640
     },
     {
@@ -1733,7 +1733,7 @@
       "lastPlayed": "2016-12",
       "platinum": false,
       "note": "Chapter 1",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560040/header.jpg",
+      "cover": "covers/steam/560040.webp",
       "steamAppId": 560040
     },
     {
@@ -1745,7 +1745,7 @@
       "lastPlayed": "2011-06",
       "platinum": false,
       "note": "First level",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35700/header.jpg",
+      "cover": "covers/steam/35700.webp",
       "steamAppId": 35700
     },
     {
@@ -1757,7 +1757,7 @@
       "lastPlayed": "2013-09",
       "platinum": false,
       "note": "First level",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/header.jpg",
+      "cover": "covers/steam/214560.webp",
       "steamAppId": 214560
     },
     {
@@ -1769,7 +1769,7 @@
       "lastPlayed": "2018-02",
       "platinum": false,
       "note": "Early",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214970/header.jpg",
+      "cover": "covers/steam/214970.webp",
       "steamAppId": 214970
     },
     {
@@ -1781,7 +1781,7 @@
       "lastPlayed": "2014-01",
       "platinum": false,
       "note": "Level 1",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234390/header.jpg",
+      "cover": "covers/steam/234390.webp",
       "steamAppId": 234390
     },
     {
@@ -1793,7 +1793,7 @@
       "lastPlayed": "2013-05",
       "platinum": false,
       "note": "World 1 of 10",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20820/header.jpg",
+      "cover": "covers/steam/20820.webp",
       "steamAppId": 20820
     },
     {
@@ -1805,7 +1805,7 @@
       "lastPlayed": "2012-01",
       "platinum": false,
       "note": "Story mode unfinished",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22230/header.jpg",
+      "cover": "covers/steam/22230.webp",
       "steamAppId": 22230
     },
     {
@@ -1817,7 +1817,7 @@
       "lastPlayed": "2017-07",
       "platinum": false,
       "note": "World 1 of 3",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/63710/header.jpg",
+      "cover": "covers/steam/63710.webp",
       "steamAppId": 63710
     },
     {
@@ -1829,7 +1829,7 @@
       "lastPlayed": "2014-12",
       "platinum": false,
       "note": "Early",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/header.jpg",
+      "cover": "covers/steam/248820.webp",
       "steamAppId": 248820
     },
     {
@@ -1841,7 +1841,7 @@
       "lastPlayed": "2014-11",
       "platinum": false,
       "note": "Early",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207430/header.jpg",
+      "cover": "covers/steam/207430.webp",
       "steamAppId": 207430
     },
     {
@@ -1853,7 +1853,7 @@
       "lastPlayed": "2013-11",
       "platinum": false,
       "note": "2 of 4 courses",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70620/header.jpg",
+      "cover": "covers/steam/70620.webp",
       "steamAppId": 70620
     },
     {
@@ -1865,7 +1865,7 @@
       "lastPlayed": "2011-12",
       "platinum": false,
       "note": "Campaign unfinished",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22600/header.jpg",
+      "cover": "covers/steam/22600.webp",
       "steamAppId": 22600
     },
     {
@@ -1877,7 +1877,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No achievements earned",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99700/header.jpg",
+      "cover": "covers/steam/99700.webp",
       "steamAppId": 99700
     },
     {
@@ -1889,7 +1889,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No achievements earned",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/header.jpg",
+      "cover": "covers/steam/278360.webp",
       "steamAppId": 278360
     },
     {
@@ -1901,7 +1901,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No achievements earned",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316610/header.jpg",
+      "cover": "covers/steam/316610.webp",
       "steamAppId": 316610
     },
     {
@@ -1913,7 +1913,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No achievements earned",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/92800/header.jpg",
+      "cover": "covers/steam/92800.webp",
       "steamAppId": 92800
     },
     {
@@ -1925,7 +1925,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No achievements earned",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg",
+      "cover": "covers/steam/239030.webp",
       "steamAppId": 239030
     },
     {
@@ -1937,7 +1937,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No achievements earned",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238280/header.jpg",
+      "cover": "covers/steam/238280.webp",
       "steamAppId": 238280
     },
     {
@@ -1949,7 +1949,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No achievements earned",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9500/header.jpg",
+      "cover": "covers/steam/9500.webp",
       "steamAppId": 9500
     },
     {
@@ -1961,7 +1961,7 @@
       "lastPlayed": "2014-01",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+      "cover": "covers/steam/440.webp",
       "steamAppId": 440
     },
     {
@@ -1973,7 +1973,7 @@
       "lastPlayed": "2018-01",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/header.jpg",
+      "cover": "covers/steam/252950.webp",
       "steamAppId": 252950
     },
     {
@@ -1985,7 +1985,7 @@
       "lastPlayed": "2016-12",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/226980/header.jpg",
+      "cover": "covers/steam/226980.webp",
       "steamAppId": 226980
     },
     {
@@ -1997,7 +1997,7 @@
       "lastPlayed": "2018-10",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442120/header.jpg",
+      "cover": "covers/steam/442120.webp",
       "steamAppId": 442120
     },
     {
@@ -2009,7 +2009,7 @@
       "lastPlayed": "2010-12",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41300/header.jpg",
+      "cover": "covers/steam/41300.webp",
       "steamAppId": 41300
     },
     {
@@ -2021,7 +2021,7 @@
       "lastPlayed": "2011-12",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12900/header.jpg",
+      "cover": "covers/steam/12900.webp",
       "steamAppId": 12900
     },
     {
@@ -2033,7 +2033,7 @@
       "lastPlayed": "2010-12",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49900/header.jpg",
+      "cover": "covers/steam/49900.webp",
       "steamAppId": 49900
     },
     {
@@ -2045,7 +2045,7 @@
       "lastPlayed": "2014-01",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254440/header.jpg",
+      "cover": "covers/steam/254440.webp",
       "steamAppId": 254440
     },
     {
@@ -2057,7 +2057,7 @@
       "lastPlayed": "2017-09",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/399820/header.jpg",
+      "cover": "covers/steam/399820.webp",
       "steamAppId": 399820
     },
     {
@@ -2069,7 +2069,7 @@
       "lastPlayed": "2015-12",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335240/header.jpg",
+      "cover": "covers/steam/335240.webp",
       "steamAppId": 335240
     },
     {
@@ -2081,7 +2081,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/header.jpg",
+      "cover": "covers/steam/508440.webp",
       "steamAppId": 508440
     },
     {
@@ -2093,7 +2093,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12430/header.jpg",
+      "cover": "covers/steam/12430.webp",
       "steamAppId": 12430
     },
     {
@@ -2105,7 +2105,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046930/header.jpg",
+      "cover": "covers/steam/1046930.webp",
       "steamAppId": 1046930
     },
     {
@@ -2117,7 +2117,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No ending",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+      "cover": "covers/steam/570.webp",
       "steamAppId": 570
     },
     {
@@ -2129,7 +2129,7 @@
       "lastPlayed": "2006",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15170/header.jpg",
+      "cover": "covers/steam/15170.webp",
       "steamAppId": 15170,
       "dateIsRelease": true
     },
@@ -2142,7 +2142,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No Steam achievements to check",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8800/header.jpg",
+      "cover": "covers/steam/8800.webp",
       "steamAppId": 8800
     },
     {
@@ -2154,7 +2154,7 @@
       "lastPlayed": "2009",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26900/header.jpg",
+      "cover": "covers/steam/26900.webp",
       "steamAppId": 26900,
       "dateIsRelease": true
     },
@@ -2167,7 +2167,7 @@
       "lastPlayed": "2006",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22330/header.jpg",
+      "cover": "covers/steam/22330.webp",
       "steamAppId": 22330,
       "dateIsRelease": true
     },
@@ -2180,7 +2180,7 @@
       "lastPlayed": "",
       "platinum": false,
       "note": "No Steam achievements to check",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/header.jpg",
+      "cover": "covers/steam/3900.webp",
       "steamAppId": 3900
     },
     {
@@ -2192,7 +2192,7 @@
       "lastPlayed": "2010",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47790/header.jpg",
+      "cover": "covers/steam/47790.webp",
       "steamAppId": 47790,
       "dateIsRelease": true
     },
@@ -2205,7 +2205,7 @@
       "lastPlayed": "2008",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17410/header.jpg",
+      "cover": "covers/steam/17410.webp",
       "steamAppId": 17410,
       "dateIsRelease": true
     },
@@ -2218,7 +2218,7 @@
       "lastPlayed": "2007",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/header.jpg",
+      "cover": "covers/steam/17460.webp",
       "steamAppId": 17460,
       "dateIsRelease": true
     },
@@ -2231,7 +2231,7 @@
       "lastPlayed": "2009",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/23380/header.jpg",
+      "cover": "covers/steam/23380.webp",
       "steamAppId": 23380,
       "dateIsRelease": true
     },
@@ -2244,7 +2244,7 @@
       "lastPlayed": "2009",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17450/header.jpg",
+      "cover": "covers/steam/17450.webp",
       "steamAppId": 17450,
       "dateIsRelease": true
     },
@@ -2257,7 +2257,7 @@
       "lastPlayed": "2006",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13580/header.jpg",
+      "cover": "covers/steam/13580.webp",
       "steamAppId": 13580,
       "dateIsRelease": true
     },
@@ -2270,7 +2270,7 @@
       "lastPlayed": "2011",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108800/header.jpg",
+      "cover": "covers/steam/108800.webp",
       "steamAppId": 108800,
       "dateIsRelease": true
     },
@@ -2283,7 +2283,7 @@
       "lastPlayed": "2005",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500/header.jpg",
+      "cover": "covers/steam/1500.webp",
       "steamAppId": 1500,
       "dateIsRelease": true
     },
@@ -2296,7 +2296,7 @@
       "lastPlayed": "2008",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24740/header.jpg",
+      "cover": "covers/steam/24740.webp",
       "steamAppId": 24740,
       "dateIsRelease": true
     },
@@ -2309,7 +2309,7 @@
       "lastPlayed": "2004",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920/header.jpg",
+      "cover": "covers/steam/3920.webp",
       "steamAppId": 3920,
       "dateIsRelease": true
     },
@@ -2322,7 +2322,7 @@
       "lastPlayed": "2007",
       "platinum": false,
       "note": "",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16300/header.jpg",
+      "cover": "covers/steam/16300.webp",
       "steamAppId": 16300,
       "dateIsRelease": true
     }

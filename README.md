@@ -25,11 +25,12 @@ The page is `index.html`. All the data lives in `games.json`, so adding a game m
 - `status`: one of `beaten`, `unfinished`, `unknown` (shown as "No proof": the game has no achievement that marks the ending, so it can't be verified) or `endless` (games with no ending, like Rocket League).
 - `proof`: the trophy or achievement that shows the game was finished.
 - `lastPlayed`: `YYYY-MM`. The month of the last trophy or achievement earned.
-- `cover`: optional image URL. Without one, the card uses a colored tile with the game's initials.
+- `cover`: optional image path or URL. Without one, the row uses a colored tile with the game's initials.
+- `coverFit`: set to `square` for square art (PlayStation icons) so it's shown on a blurred backdrop.
 
 ## Steam
 
-Steam games use the store's header art as the cover. The list includes every game with an achievement unlocked or at least an hour of playtime; untouched library games are left out.
+Steam games use the store's header art as the cover, saved in `covers/steam/` as WebP. PlayStation art is saved in `covers/psn/`. The list includes every game with an achievement unlocked or at least an hour of playtime; untouched library games are left out.
 
 ## How "beaten" is decided
 
