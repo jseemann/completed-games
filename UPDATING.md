@@ -6,11 +6,12 @@ The goal of each run is small: find games that are new, or that moved from unfin
 
 ## Ground rules
 
-1. **Never touch an entry with `"manual": true`.** Those are calls Jason made himself (games with no finishing achievement, Demon's Souls' good ending). Don't change their status, proof, note or date.
-2. **Never downgrade.** A game marked `beaten` stays beaten. A run can only move `unfinished` or `unknown` to `beaten`, or add new games.
-3. **Only add games that were actually played.** At least one trophy or achievement, or (Steam only) an hour of playtime. Untouched library games stay out.
-4. **When the finishing achievement is unclear, don't guess.** Set `status: "unknown"`, write what you saw in `note`, and list the game in the PR description under "Needs your call".
-5. **Open a pull request; don't push to `main`.** Branch name `update/YYYY-MM-DD`. Jason reviews and merges.
+1. **Never add anything listed in `excluded`** (top level of `games.json`). Jason removed those on purpose.
+2. **Never touch an entry with `"manual": true`.** Those are calls Jason made himself (games with no finishing achievement, Demon's Souls' good ending). Don't change their status, proof, note or date.
+3. **Never downgrade.** A game marked `beaten` stays beaten. A run can only move `unfinished` or `unknown` to `beaten`, or add new games.
+4. **Only add games that were actually played.** At least one trophy or achievement, or (Steam only) an hour of playtime. Untouched library games stay out.
+5. **When the finishing achievement is unclear, don't guess.** Set `status: "unknown"`, write what you saw in `note`, and list the game in the PR description under "Needs your call".
+6. **Open a pull request; don't push to `main`.** Branch name `update/YYYY-MM-DD`. Jason reviews and merges.
 
 ## What "beaten" means
 

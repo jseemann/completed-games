@@ -2223,20 +2223,6 @@
       "manual": true
     },
     {
-      "title": "Mass Effect",
-      "platform": "Steam",
-      "system": "PC",
-      "status": "beaten",
-      "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "2007",
-      "platinum": false,
-      "note": "",
-      "cover": "covers/steam/17460.webp",
-      "steamAppId": 17460,
-      "dateIsRelease": true,
-      "manual": true
-    },
-    {
       "title": "Gyromancer",
       "platform": "Steam",
       "system": "PC",
@@ -2293,20 +2279,6 @@
       "manual": true
     },
     {
-      "title": "Darwinia",
-      "platform": "Steam",
-      "system": "PC",
-      "status": "beaten",
-      "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "2005",
-      "platinum": false,
-      "note": "",
-      "cover": "covers/steam/1500.webp",
-      "steamAppId": 1500,
-      "dateIsRelease": true,
-      "manual": true
-    },
-    {
       "title": "Burnout Paradise",
       "platform": "Steam",
       "system": "PC",
@@ -2331,20 +2303,6 @@
       "note": "",
       "cover": "covers/steam/3920.webp",
       "steamAppId": 3920,
-      "dateIsRelease": true,
-      "manual": true
-    },
-    {
-      "title": "Everyday Shooter",
-      "platform": "Steam",
-      "system": "PC",
-      "status": "beaten",
-      "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "2007",
-      "platinum": false,
-      "note": "",
-      "cover": "covers/steam/16300.webp",
-      "steamAppId": 16300,
       "dateIsRelease": true,
       "manual": true
     },
@@ -2913,6 +2871,23 @@
       "note": "No ending",
       "cover": "covers/apple/mega-jump.webp",
       "coverFit": "square"
+    }
+  ],
+  "excluded": [
+    {
+      "platform": "Steam",
+      "title": "Mass Effect",
+      "steamAppId": 17460
+    },
+    {
+      "platform": "Steam",
+      "title": "Darwinia",
+      "steamAppId": 1500
+    },
+    {
+      "platform": "Steam",
+      "title": "Everyday Shooter",
+      "steamAppId": 16300
     }
   ]
 }
