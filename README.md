@@ -25,6 +25,7 @@ The page is `index.html`. All the data lives in `games.json`, so adding a game m
 - `status`: one of `beaten`, `unfinished`, `unknown` (shown as "No proof": the game has no achievement that marks the ending, so it can't be verified) or `endless` (games with no ending, like Rocket League).
 - `proof`: the trophy or achievement that shows the game was finished.
 - `lastPlayed`: `YYYY-MM`. The month of the last trophy or achievement earned.
+- `manual`: `true` for calls made by hand (no finishing achievement exists). Automated updates leave these alone.
 - `cover`: optional image path or URL. Without one, the row uses a colored tile with the game's initials.
 - `coverFit`: set to `square` for square art (PlayStation icons) so it's shown on a blurred backdrop.
 
@@ -39,3 +40,7 @@ A game counts as beaten when the trophy or achievement for the final story missi
 ## Hosting
 
 GitHub Pages: Settings → Pages → Deploy from a branch → `main` / root.
+
+## Updating
+
+See `UPDATING.md` for the refresh procedure that the quarterly scheduled task follows.

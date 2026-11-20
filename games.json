@@ -652,7 +652,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/psn/11792.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Borderlands: The Pre-Sequel",
@@ -1481,7 +1482,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/steam/48000.webp",
-      "steamAppId": 48000
+      "steamAppId": 48000,
+      "manual": true
     },
     {
       "title": "Vessel",
@@ -1493,7 +1495,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/steam/108500.webp",
-      "steamAppId": 108500
+      "steamAppId": 108500,
+      "manual": true
     },
     {
       "title": "Brothers - A Tale of Two Sons",
@@ -1505,7 +1508,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/steam/225080.webp",
-      "steamAppId": 225080
+      "steamAppId": 225080,
+      "manual": true
     },
     {
       "title": "Year Walk",
@@ -1517,7 +1521,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/steam/269050.webp",
-      "steamAppId": 269050
+      "steamAppId": 269050,
+      "manual": true
     },
     {
       "title": "The Swapper",
@@ -1530,7 +1535,8 @@
       "note": "",
       "cover": "covers/steam/231160.webp",
       "steamAppId": 231160,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Baldur's Gate: Enhanced Edition",
@@ -1543,7 +1549,8 @@
       "note": "",
       "cover": "covers/steam/228280.webp",
       "steamAppId": 228280,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Brütal Legend",
@@ -2132,7 +2139,8 @@
       "note": "",
       "cover": "covers/steam/15170.webp",
       "steamAppId": 15170,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Civilization IV: Beyond the Sword",
@@ -2157,7 +2165,8 @@
       "note": "",
       "cover": "covers/steam/26900.webp",
       "steamAppId": 26900,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -2170,7 +2179,8 @@
       "note": "",
       "cover": "covers/steam/22330.webp",
       "steamAppId": 22330,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Civilization IV",
@@ -2195,7 +2205,8 @@
       "note": "",
       "cover": "covers/steam/47790.webp",
       "steamAppId": 47790,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Mirror's Edge",
@@ -2208,7 +2219,8 @@
       "note": "",
       "cover": "covers/steam/17410.webp",
       "steamAppId": 17410,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Mass Effect",
@@ -2221,7 +2233,8 @@
       "note": "",
       "cover": "covers/steam/17460.webp",
       "steamAppId": 17460,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Gyromancer",
@@ -2234,7 +2247,8 @@
       "note": "",
       "cover": "covers/steam/23380.webp",
       "steamAppId": 23380,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Dragon Age: Origins",
@@ -2247,7 +2261,8 @@
       "note": "",
       "cover": "covers/steam/17450.webp",
       "steamAppId": 17450,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Splinter Cell: Double Agent",
@@ -2260,7 +2275,8 @@
       "note": "",
       "cover": "covers/steam/13580.webp",
       "steamAppId": 13580,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Crysis 2",
@@ -2273,7 +2289,8 @@
       "note": "",
       "cover": "covers/steam/108800.webp",
       "steamAppId": 108800,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Darwinia",
@@ -2286,7 +2303,8 @@
       "note": "",
       "cover": "covers/steam/1500.webp",
       "steamAppId": 1500,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Burnout Paradise",
@@ -2299,7 +2317,8 @@
       "note": "",
       "cover": "covers/steam/24740.webp",
       "steamAppId": 24740,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Sid Meier's Pirates!",
@@ -2312,7 +2331,8 @@
       "note": "",
       "cover": "covers/steam/3920.webp",
       "steamAppId": 3920,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "Everyday Shooter",
@@ -2325,7 +2345,8 @@
       "note": "",
       "cover": "covers/steam/16300.webp",
       "steamAppId": 16300,
-      "dateIsRelease": true
+      "dateIsRelease": true,
+      "manual": true
     },
     {
       "title": "The Oregon Trail",
@@ -2397,7 +2418,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/apple/jetpack-joyride-2.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Does not Commute",
@@ -2585,7 +2607,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/apple/zen-pinball-party.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Taiko no Tatsujin Pop Tap Beat",
@@ -2657,7 +2680,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/apple/sp-ng.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Doodle Jump",
@@ -2681,7 +2705,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/apple/alto-s-odyssey-remastered.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Angry Birds Reloaded",
@@ -2739,7 +2764,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/apple/zen-pinball.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Splashy Dots",
@@ -2787,7 +2813,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/apple/flick-golf-extreme.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Crossy Road",
@@ -2823,7 +2850,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/apple/flick-golf.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "Lastronaut",
@@ -2847,7 +2875,8 @@
       "platinum": false,
       "note": "",
       "cover": "covers/apple/tiny-wings.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "New Star Soccer",
