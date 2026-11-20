@@ -1,0 +1,768 @@
+{
+  "updated": "2026-11-20",
+  "sources": {
+    "PlayStation": "https://psnprofiles.com/MayoTheCondiment"
+  },
+  "games": [
+    {
+      "title": "Stellar Blade",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Cost of Lost Memories ending",
+      "lastPlayed": "2026-07",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "I'll Be Watching You (final campaign mission)",
+      "lastPlayed": "2026-04",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Final Fantasy XVI",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "Not started"
+    },
+    {
+      "title": "Tomb Raider I-III Remastered",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "Not started"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "The End",
+      "lastPlayed": "2026-02",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "The Last of Us Part II Remastered",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "What I Had to Do (complete the story)",
+      "lastPlayed": "2026-01",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Split Fiction",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Platinum",
+      "lastPlayed": "2026-01",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "Prince of Persia: The Lost Crown",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "The End of Time (final boss)",
+      "lastPlayed": "2025-12",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Hollow Knight: Silksong",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Weaver Queen (Act 2 ending)",
+      "lastPlayed": "2025-10",
+      "platinum": false,
+      "note": "Act 3 ending still open"
+    },
+    {
+      "title": "Diablo IV",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2025-08",
+      "platinum": false,
+      "note": "Campaign unfinished"
+    },
+    {
+      "title": "God of War Ragnarök",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Ragnarök (Battle the All-Father)",
+      "lastPlayed": "2025-08",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Marvel's Guardians of the Galaxy",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Guardians of the Galaxy (complete the game)",
+      "lastPlayed": "2025-05",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Sackboy: A Big Adventure",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Verified Vex Vanquisher",
+      "lastPlayed": "2025-01",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Before Your Eyes",
+      "platform": "PlayStation",
+      "system": "PS VR2",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "Not started"
+    },
+    {
+      "title": "Kayak VR: Mirage",
+      "platform": "PlayStation",
+      "system": "PS VR2",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "2024-08",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "Fall Guys",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "2024-08",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "Lovers in a Dangerous Spacetime",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "beaten",
+      "proof": "Love Has Prevailed (final boss)",
+      "lastPlayed": "2024-08",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Tunic",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Platinum",
+      "lastPlayed": "2024-08",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "Star Wars Jedi: Survivor",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "A Place You Could Call Home (complete the story)",
+      "lastPlayed": "2024-07",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2024-06",
+      "platinum": false,
+      "note": "Chapter 1"
+    },
+    {
+      "title": "Dave the Diver",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "A Peaceful Blue Hole (credits)",
+      "lastPlayed": "2024-06",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Horizon Forbidden West",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Discovered Nemesis (final main quest)",
+      "lastPlayed": "2024-05",
+      "platinum": false,
+      "note": "Burning Shores DLC open"
+    },
+    {
+      "title": "Sifu",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Furious Fists (defeat Yang)",
+      "lastPlayed": "2024-03",
+      "platinum": false,
+      "note": "True ending still open"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2024-02",
+      "platinum": false,
+      "note": "Early"
+    },
+    {
+      "title": "The Finals",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "2024-01",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "Days Gone",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2024-01",
+      "platinum": false,
+      "note": "Early"
+    },
+    {
+      "title": "Mega Man 11",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "Not started"
+    },
+    {
+      "title": "Awesome Asteroids",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Platinum",
+      "lastPlayed": "2024-01",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "Control",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Take Control (Mission 10)",
+      "lastPlayed": "2024-01",
+      "platinum": true,
+      "note": "Base-game platinum"
+    },
+    {
+      "title": "Moss",
+      "platform": "PlayStation",
+      "system": "PS VR2",
+      "status": "beaten",
+      "proof": "A Promising Beginning (finish Book 1)",
+      "lastPlayed": "2023-12",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Call of Duty: Black Ops Cold War",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Combat Recruit (campaign complete)",
+      "lastPlayed": "2023-12",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Mono No Aware (final story trophy)",
+      "lastPlayed": "2023-12",
+      "platinum": true,
+      "note": "Base-game platinum; Iki Island open"
+    },
+    {
+      "title": "Baldur's Gate III",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "All's Well That Ends Well",
+      "lastPlayed": "2023-12",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Rocket League",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "2023-08",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "Rogue Legacy 2",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2023-08",
+      "platinum": false,
+      "note": "4 of 6 Estuaries"
+    },
+    {
+      "title": "Doom Eternal",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2023-06",
+      "platinum": false,
+      "note": "First mission"
+    },
+    {
+      "title": "NBA 2K23",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "2023-06",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "Fantasy Strike",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2023-06",
+      "platinum": false,
+      "note": "No arcade clear"
+    },
+    {
+      "title": "Red Matter 2",
+      "platform": "PlayStation",
+      "system": "PS VR2",
+      "status": "beaten",
+      "proof": "Platinum",
+      "lastPlayed": "2023-06",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "Nioh 2",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2023-05",
+      "platinum": false,
+      "note": "Early"
+    },
+    {
+      "title": "Gran Turismo 7",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Platinum (incl. Finale)",
+      "lastPlayed": "2023-05",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "Synth Riders",
+      "platform": "PlayStation",
+      "system": "PS VR2",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "2023-05",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "Slay the Spire",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "beaten",
+      "proof": "Beat Act 3 with all 4 characters",
+      "lastPlayed": "2023-04",
+      "platinum": false,
+      "note": "Act 4 Heart still open"
+    },
+    {
+      "title": "Uncharted 4: A Thief's End",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Charted! - Moderate",
+      "lastPlayed": "2023-04",
+      "platinum": false,
+      "note": "From Legacy of Thieves Collection"
+    },
+    {
+      "title": "Uncharted: The Lost Legacy",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2023-04",
+      "platinum": false,
+      "note": "From Legacy of Thieves Collection"
+    },
+    {
+      "title": "Returnal",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "White Shadow (Act 3, true ending)",
+      "lastPlayed": "2023-02",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Bugsnax",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-09",
+      "platinum": false,
+      "note": "Early"
+    },
+    {
+      "title": "Darkest Dungeon",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2023-01",
+      "platinum": false,
+      "note": "Final dungeon not cleared"
+    },
+    {
+      "title": "It Takes Two",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Platinum",
+      "lastPlayed": "2022-12",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-12",
+      "platinum": false,
+      "note": "Early"
+    },
+    {
+      "title": "Child of Light",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "Not started"
+    },
+    {
+      "title": "Mortal Kombat 11",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-11",
+      "platinum": false,
+      "note": "Story unfinished"
+    },
+    {
+      "title": "Deep Rock Galactic",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "2022-11",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "Demon's Souls",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "All archdemons incl. False King (good ending has no trophy)",
+      "lastPlayed": "2022-11",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Borderlands: The Pre-Sequel",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "Not started"
+    },
+    {
+      "title": "Stray",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Eye Opener (complete the game)",
+      "lastPlayed": "2022-10",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Hot Wheels Unleashed",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-10",
+      "platinum": false,
+      "note": "Early"
+    },
+    {
+      "title": "Death Stranding: Director's Cut",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-09",
+      "platinum": false,
+      "note": "Episode 1 of 14"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 1 + 2",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-08",
+      "platinum": false,
+      "note": "Early career"
+    },
+    {
+      "title": "Sekiro: Shadows Die Twice",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "beaten",
+      "proof": "Dragon's Homecoming (Return ending)",
+      "lastPlayed": "2022-08",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Ratchet & Clank: Rift Apart",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Platinum",
+      "lastPlayed": "2022-07",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "Final Fantasy VII Remake",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Destiny's Crossroads (Chapter 18)",
+      "lastPlayed": "2022-07",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Platinum",
+      "lastPlayed": "2022-06",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "The Last of Us Remastered",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "beaten",
+      "proof": "No Matter What - Normal",
+      "lastPlayed": "2022-06",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Elden Ring",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Platinum (all 3 endings)",
+      "lastPlayed": "2022-05",
+      "platinum": true,
+      "note": ""
+    },
+    {
+      "title": "Astro's Playroom",
+      "platform": "PlayStation",
+      "system": "PS5",
+      "status": "beaten",
+      "proof": "Play Has No Limits!",
+      "lastPlayed": "2022-05",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "Knights and Bikes",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-02",
+      "platinum": false,
+      "note": "Day 2 of 6"
+    },
+    {
+      "title": "Persona 5",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "Not started"
+    },
+    {
+      "title": "Celeste",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-01",
+      "platinum": false,
+      "note": "Chapter 1"
+    },
+    {
+      "title": "Unravel Two",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "beaten",
+      "proof": "Bounce Back (final chapter)",
+      "lastPlayed": "2022-01",
+      "platinum": false,
+      "note": ""
+    },
+    {
+      "title": "LEGO DC Super-Villains",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2022-01",
+      "platinum": false,
+      "note": "Early"
+    },
+    {
+      "title": "Pinball FX3",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "2022-01",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "NHL 21",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "endless",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "No ending"
+    },
+    {
+      "title": "Mortal Kombat X",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "2021-11",
+      "platinum": false,
+      "note": "Story unfinished"
+    },
+    {
+      "title": "Bloodborne",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "unfinished",
+      "proof": "",
+      "lastPlayed": "",
+      "platinum": false,
+      "note": "Not started"
+    },
+    {
+      "title": "God of War",
+      "platform": "PlayStation",
+      "system": "PS4",
+      "status": "beaten",
+      "proof": "Last Wish (spread the ashes)",
+      "lastPlayed": "2021-11",
+      "platinum": false,
+      "note": ""
+    }
+  ]
+}

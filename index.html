@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Completed Games</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0e0f13;
+    --panel: #171920;
+    --line: #262934;
+    --text: #e9eaf0;
+    --muted: #8a8fa3;
+    --accent: #7cf2c3;
+    --gold: #e8c46a;
+    --radius: 14px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 15px/1.5 Inter, system-ui, sans-serif;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 48px 24px 80px; }
+  header h1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: clamp(32px, 5vw, 52px);
+    line-height: 1.05;
+    margin: 0 0 8px;
+    letter-spacing: -0.02em;
+  }
+  header p { color: var(--muted); margin: 0; }
+
+  .stats { display: flex; gap: 12px; flex-wrap: wrap; margin: 28px 0 32px; }
+  .stat {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 14px 18px;
+    min-width: 130px;
+  }
+  .stat b { display: block; font: 700 28px "Space Grotesk", sans-serif; }
+  .stat span { color: var(--muted); font-size: 13px; }
+
+  .controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 24px; }
+  .group { display: flex; background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+  .group button {
+    border: 0; background: none; color: var(--muted);
+    font: 500 13px Inter, sans-serif;
+    padding: 7px 14px; border-radius: 999px; cursor: pointer;
+  }
+  .group button.on { background: var(--text); color: var(--bg); }
+  .group button .n { opacity: .6; margin-left: 4px; }
+  input[type=search], select {
+    background: var(--panel); border: 1px solid var(--line); color: var(--text);
+    border-radius: 999px; padding: 9px 16px; font: 14px Inter, sans-serif;
+  }
+  input[type=search] { flex: 1; min-width: 180px; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 16px; }
+  .card {
+    background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
+    overflow: hidden; display: flex; flex-direction: column;
+    transition: transform .15s ease, border-color .15s ease;
+  }
+  .card:hover { transform: translateY(-3px); border-color: #3a3e4c; }
+  .cover {
+    aspect-ratio: 16 / 10; position: relative; display: flex; align-items: flex-end;
+    padding: 12px 14px; overflow: hidden;
+  }
+  .cover img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .cover .mono {
+    font: 700 44px/1 "Space Grotesk", sans-serif; color: rgba(255,255,255,.9);
+    letter-spacing: -0.03em; text-shadow: 0 2px 12px rgba(0,0,0,.25);
+  }
+  .badges { position: absolute; top: 10px; right: 10px; display: flex; gap: 6px; }
+  .badge {
+    font: 600 11px Inter, sans-serif; padding: 3px 8px; border-radius: 999px;
+    background: rgba(14,15,19,.75); backdrop-filter: blur(4px);
+  }
+  .badge.plat { color: var(--gold); }
+  .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 4px; flex: 1; }
+  .title { font-weight: 600; line-height: 1.3; }
+  .proof { color: var(--muted); font-size: 13px; }
+  .meta { margin-top: auto; padding-top: 8px; display: flex; justify-content: space-between; color: var(--muted); font-size: 12px; }
+  .status-beaten .meta .st { color: var(--accent); }
+  .status-unfinished { opacity: .78; }
+  .empty { color: var(--muted); padding: 60px 0; text-align: center; }
+  footer { margin-top: 48px; color: var(--muted); font-size: 13px; }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Games I've finished</h1>
+    <p id="sub">Loading…</p>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <section class="controls">
+    <div class="group" id="platforms"></div>
+    <div class="group" id="statuses"></div>
+    <input type="search" id="q" placeholder="Search games">
+    <select id="sort">
+      <option value="recent">Most recent</option>
+      <option value="az">A to Z</option>
+    </select>
+  </section>
+
+  <section class="grid" id="grid"></section>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const STATUS = { beaten: "Beaten", unfinished: "Unfinished", endless: "No ending" };
+const state = { platform: "All", status: "beaten", q: "", sort: "recent" };
+let data;
+
+function hue(s) { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) % 360; return h; }
+function initials(t) {
+  const words = t.replace(/['’]/g, "").replace(/[^A-Za-z0-9 ]/g, " ").split(/\s+/)
+    .filter(w => w && !/^(the|of|a|an|and|in|to)$/i.test(w));
+  return ((words[0]?.[0] || "") + (words[1]?.[0] || "")).toUpperCase();
+}
+function fmt(d) {
+  if (!d) return "";
+  const [y, m] = d.split("-");
+  return new Date(y, m - 1).toLocaleString("en", { month: "short", year: "numeric" });
+}
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+function counts(list, key) { return list.reduce((o, g) => (o[g[key]] = (o[g[key]] || 0) + 1, o), {}); }
+
+function renderControls() {
+  const plats = ["All", ...new Set(data.games.map(g => g.platform))];
+  const pc = counts(data.games.filter(g => g.status === state.status || state.status === "all"), "platform");
+  document.getElementById("platforms").innerHTML = plats.map(p =>
+    `<button data-p="${p}" class="${p === state.platform ? "on" : ""}">${p}${p !== "All" ? `<span class="n">${pc[p] || 0}</span>` : ""}</button>`).join("");
+  const sc = counts(data.games.filter(g => state.platform === "All" || g.platform === state.platform), "status");
+  document.getElementById("statuses").innerHTML = [...Object.keys(STATUS), "all"].map(s =>
+    `<button data-s="${s}" class="${s === state.status ? "on" : ""}">${STATUS[s] || "All"}${s !== "all" ? `<span class="n">${sc[s] || 0}</span>` : ""}</button>`).join("");
+}
+
+function renderStats() {
+  const beaten = data.games.filter(g => g.status === "beaten");
+  const plats = counts(beaten, "platform");
+  const plat = beaten.filter(g => g.platinum).length;
+  const year = new Date().getFullYear().toString();
+  const thisYear = beaten.filter(g => g.lastPlayed?.startsWith(year)).length;
+  const tiles = [
+    [beaten.length, "games beaten"],
+    ...Object.entries(plats).map(([p, n]) => [n, `on ${p}`]),
+    [plat, "platinums"],
+    [thisYear, `finished in ${year}`],
+  ];
+  document.getElementById("stats").innerHTML = tiles.map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+}
+
+function render() {
+  renderControls();
+  let list = data.games.filter(g =>
+    (state.platform === "All" || g.platform === state.platform) &&
+    (state.status === "all" || g.status === state.status) &&
+    g.title.toLowerCase().includes(state.q.toLowerCase()));
+  list.sort(state.sort === "az"
+    ? (a, b) => a.title.localeCompare(b.title)
+    : (a, b) => (b.lastPlayed || "").localeCompare(a.lastPlayed || "") || a.title.localeCompare(b.title));
+
+  document.getElementById("grid").innerHTML = list.length ? list.map(g => {
+    const h = hue(g.title);
+    const bg = `linear-gradient(135deg, hsl(${h} 55% 42%), hsl(${(h + 50) % 360} 60% 22%))`;
+    return `<article class="card status-${g.status}">
+      <div class="cover" style="background:${bg}">
+        ${g.cover ? `<img src="${esc(g.cover)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+        <span class="mono">${esc(initials(g.title))}</span>
+        <div class="badges">
+          ${g.platinum ? `<span class="badge plat">Platinum</span>` : ""}
+          <span class="badge">${esc(g.system)}</span>
+        </div>
+      </div>
+      <div class="body">
+        <div class="title">${esc(g.title)}</div>
+        <div class="proof">${esc(g.proof || g.note || "")}</div>
+        ${g.proof && g.note ? `<div class="proof">${esc(g.note)}</div>` : ""}
+        <div class="meta"><span class="st">${STATUS[g.status]}</span><span>${fmt(g.lastPlayed)}</span></div>
+      </div>
+    </article>`;
+  }).join("") : `<div class="empty">Nothing here yet.</div>`;
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  if (b.dataset.p) state.platform = b.dataset.p;
+  if (b.dataset.s) state.status = b.dataset.s;
+  render();
+});
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+document.getElementById("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
+
+fetch("games.json").then(r => r.json()).then(d => {
+  data = d;
+  document.getElementById("sub").textContent =
+    `${d.games.filter(g => g.status === "beaten").length} games played to the credits, across every platform I own.`;
+  document.getElementById("foot").innerHTML = `Last updated ${esc(d.updated)}. Sources: ` +
+    Object.entries(d.sources).map(([k, v]) => `<a href="${esc(v)}">${esc(k)}</a>`).join(", ") + ".";
+  renderStats();
+  render();
+});
+</script>
+</body>
+</html>
