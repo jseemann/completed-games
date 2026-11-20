@@ -132,6 +132,7 @@ function initials(t) {
 function fmt(d) {
   if (!d) return "";
   const [y, m] = d.split("-");
+  if (!m) return y;
   return new Date(y, m - 1).toLocaleString("en", { month: "short", year: "numeric" });
 }
 const counts = (list, key) => list.reduce((o, g) => (o[g[key]] = (o[g[key]] || 0) + 1, o), {});
@@ -183,7 +184,7 @@ function row(g) {
         ${g.platinum ? `<span class="pill plat">Platinum</span>` : ""}
         <span class="pill ${g.status}">${STATUS[g.status]}</span>
       </div>
-      <span class="date">${fmt(g.lastPlayed)}</span>
+      <span class="date" ${g.dateIsRelease ? `title="Year of release; finish date unknown"` : ""}>${g.dateIsRelease ? "Released " : ""}${fmt(g.lastPlayed)}</span>
     </div>
   </div>`;
 }

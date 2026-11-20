@@ -1523,11 +1523,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2013",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/header.jpg",
-      "steamAppId": 231160
+      "steamAppId": 231160,
+      "dateIsRelease": true
     },
     {
       "title": "Baldur's Gate: Enhanced Edition",
@@ -1535,11 +1536,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2012",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228280/header.jpg",
-      "steamAppId": 228280
+      "steamAppId": 228280,
+      "dateIsRelease": true
     },
     {
       "title": "Brütal Legend",
@@ -2123,11 +2125,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2006",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15170/header.jpg",
-      "steamAppId": 15170
+      "steamAppId": 15170,
+      "dateIsRelease": true
     },
     {
       "title": "Civilization IV: Beyond the Sword",
@@ -2147,11 +2150,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2009",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26900/header.jpg",
-      "steamAppId": 26900
+      "steamAppId": 26900,
+      "dateIsRelease": true
     },
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -2159,11 +2163,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2006",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22330/header.jpg",
-      "steamAppId": 22330
+      "steamAppId": 22330,
+      "dateIsRelease": true
     },
     {
       "title": "Civilization IV",
@@ -2183,11 +2188,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2010",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47790/header.jpg",
-      "steamAppId": 47790
+      "steamAppId": 47790,
+      "dateIsRelease": true
     },
     {
       "title": "Mirror's Edge",
@@ -2195,11 +2201,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2008",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17410/header.jpg",
-      "steamAppId": 17410
+      "steamAppId": 17410,
+      "dateIsRelease": true
     },
     {
       "title": "Mass Effect",
@@ -2207,11 +2214,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2007",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/header.jpg",
-      "steamAppId": 17460
+      "steamAppId": 17460,
+      "dateIsRelease": true
     },
     {
       "title": "Gyromancer",
@@ -2219,11 +2227,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2009",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/23380/header.jpg",
-      "steamAppId": 23380
+      "steamAppId": 23380,
+      "dateIsRelease": true
     },
     {
       "title": "Dragon Age: Origins",
@@ -2231,11 +2240,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2009",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17450/header.jpg",
-      "steamAppId": 17450
+      "steamAppId": 17450,
+      "dateIsRelease": true
     },
     {
       "title": "Splinter Cell: Double Agent",
@@ -2243,11 +2253,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2006",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13580/header.jpg",
-      "steamAppId": 13580
+      "steamAppId": 13580,
+      "dateIsRelease": true
     },
     {
       "title": "Crysis 2",
@@ -2255,11 +2266,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2011",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108800/header.jpg",
-      "steamAppId": 108800
+      "steamAppId": 108800,
+      "dateIsRelease": true
     },
     {
       "title": "Darwinia",
@@ -2267,11 +2279,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2005",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500/header.jpg",
-      "steamAppId": 1500
+      "steamAppId": 1500,
+      "dateIsRelease": true
     },
     {
       "title": "Burnout Paradise",
@@ -2279,11 +2292,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2008",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24740/header.jpg",
-      "steamAppId": 24740
+      "steamAppId": 24740,
+      "dateIsRelease": true
     },
     {
       "title": "Sid Meier's Pirates!",
@@ -2291,11 +2305,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2004",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920/header.jpg",
-      "steamAppId": 3920
+      "steamAppId": 3920,
+      "dateIsRelease": true
     },
     {
       "title": "Everyday Shooter",
@@ -2303,11 +2318,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Confirmed by me (no achievement marks the ending)",
-      "lastPlayed": "",
+      "lastPlayed": "2007",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16300/header.jpg",
-      "steamAppId": 16300
+      "steamAppId": 16300,
+      "dateIsRelease": true
     }
   ]
 }
