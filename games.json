@@ -2671,13 +2671,14 @@
       "title": "Angry Birds Reloaded",
       "platform": "Apple",
       "system": "Apple Arcade",
-      "status": "endless",
-      "proof": "",
+      "status": "beaten",
+      "proof": "Confirmed by me",
       "lastPlayed": "2021",
       "platinum": false,
-      "note": "No ending",
+      "note": "",
       "cover": "covers/apple/angry-birds-reloaded.webp",
-      "coverFit": "square"
+      "coverFit": "square",
+      "manual": true
     },
     {
       "title": "LEGO Star Wars Battles",
