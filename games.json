@@ -13,7 +13,9 @@
       "proof": "Cost of Lost Memories ending",
       "lastPlayed": "2026-07",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/27012.webp",
+      "coverFit": "square"
     },
     {
       "title": "Warhammer 40,000: Space Marine 2",
@@ -23,7 +25,9 @@
       "proof": "I'll Be Watching You (final campaign mission)",
       "lastPlayed": "2026-04",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/29135.webp",
+      "coverFit": "square"
     },
     {
       "title": "Final Fantasy XVI",
@@ -33,7 +37,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "Not started"
+      "note": "Not started",
+      "cover": "covers/psn/22648.webp",
+      "coverFit": "square"
     },
     {
       "title": "Tomb Raider I-III Remastered",
@@ -43,7 +49,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "Not started"
+      "note": "Not started",
+      "cover": "covers/psn/25884.webp",
+      "coverFit": "square"
     },
     {
       "title": "Clair Obscur: Expedition 33",
@@ -53,7 +61,9 @@
       "proof": "The End",
       "lastPlayed": "2026-02",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/33395.webp",
+      "coverFit": "square"
     },
     {
       "title": "The Last of Us Part II Remastered",
@@ -63,7 +73,9 @@
       "proof": "What I Had to Do (complete the story)",
       "lastPlayed": "2026-01",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/25442.webp",
+      "coverFit": "square"
     },
     {
       "title": "Split Fiction",
@@ -73,7 +85,9 @@
       "proof": "Platinum",
       "lastPlayed": "2026-01",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/32158.webp",
+      "coverFit": "square"
     },
     {
       "title": "Prince of Persia: The Lost Crown",
@@ -83,7 +97,9 @@
       "proof": "The End of Time (final boss)",
       "lastPlayed": "2025-12",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/25399.webp",
+      "coverFit": "square"
     },
     {
       "title": "Hollow Knight: Silksong",
@@ -93,7 +109,9 @@
       "proof": "Weaver Queen (Act 2 ending)",
       "lastPlayed": "2025-10",
       "platinum": false,
-      "note": "Act 3 ending still open"
+      "note": "Act 3 ending still open",
+      "cover": "covers/psn/36346.webp",
+      "coverFit": "square"
     },
     {
       "title": "Diablo IV",
@@ -103,7 +121,9 @@
       "proof": "",
       "lastPlayed": "2025-08",
       "platinum": false,
-      "note": "Campaign unfinished"
+      "note": "Campaign unfinished",
+      "cover": "covers/psn/22398.webp",
+      "coverFit": "square"
     },
     {
       "title": "God of War Ragnarök",
@@ -113,7 +133,9 @@
       "proof": "Ragnarök (Battle the All-Father)",
       "lastPlayed": "2025-08",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/19260.webp",
+      "coverFit": "square"
     },
     {
       "title": "Marvel's Guardians of the Galaxy",
@@ -123,7 +145,9 @@
       "proof": "Guardians of the Galaxy (complete the game)",
       "lastPlayed": "2025-05",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/14419.webp",
+      "coverFit": "square"
     },
     {
       "title": "Sackboy: A Big Adventure",
@@ -133,7 +157,9 @@
       "proof": "Verified Vex Vanquisher",
       "lastPlayed": "2025-01",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/11793.webp",
+      "coverFit": "square"
     },
     {
       "title": "Before Your Eyes",
@@ -143,7 +169,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "Not started"
+      "note": "Not started",
+      "cover": "covers/psn/21170.webp",
+      "coverFit": "square"
     },
     {
       "title": "Kayak VR: Mirage",
@@ -153,7 +181,9 @@
       "proof": "",
       "lastPlayed": "2024-08",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/20996.webp",
+      "coverFit": "square"
     },
     {
       "title": "Fall Guys",
@@ -163,7 +193,9 @@
       "proof": "",
       "lastPlayed": "2024-08",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/16773.webp",
+      "coverFit": "square"
     },
     {
       "title": "Lovers in a Dangerous Spacetime",
@@ -173,7 +205,9 @@
       "proof": "Love Has Prevailed (final boss)",
       "lastPlayed": "2024-08",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/4294.webp",
+      "coverFit": "square"
     },
     {
       "title": "Tunic",
@@ -183,7 +217,9 @@
       "proof": "Platinum",
       "lastPlayed": "2024-08",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/18334.webp",
+      "coverFit": "square"
     },
     {
       "title": "Star Wars Jedi: Survivor",
@@ -193,7 +229,9 @@
       "proof": "A Place You Could Call Home (complete the story)",
       "lastPlayed": "2024-07",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/21937.webp",
+      "coverFit": "square"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -203,7 +241,9 @@
       "proof": "",
       "lastPlayed": "2024-06",
       "platinum": false,
-      "note": "Chapter 1"
+      "note": "Chapter 1",
+      "cover": "covers/psn/8370.webp",
+      "coverFit": "square"
     },
     {
       "title": "Dave the Diver",
@@ -213,7 +253,9 @@
       "proof": "A Peaceful Blue Hole (credits)",
       "lastPlayed": "2024-06",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/26853.webp",
+      "coverFit": "square"
     },
     {
       "title": "Horizon Forbidden West",
@@ -223,7 +265,9 @@
       "proof": "Discovered Nemesis (final main quest)",
       "lastPlayed": "2024-05",
       "platinum": false,
-      "note": "Burning Shores DLC open"
+      "note": "Burning Shores DLC open",
+      "cover": "covers/psn/15450.webp",
+      "coverFit": "square"
     },
     {
       "title": "Sifu",
@@ -233,7 +277,9 @@
       "proof": "Furious Fists (defeat Yang)",
       "lastPlayed": "2024-03",
       "platinum": false,
-      "note": "True ending still open"
+      "note": "True ending still open",
+      "cover": "covers/psn/15252.webp",
+      "coverFit": "square"
     },
     {
       "title": "Grand Theft Auto V",
@@ -243,7 +289,9 @@
       "proof": "",
       "lastPlayed": "2024-02",
       "platinum": false,
-      "note": "Early"
+      "note": "Early",
+      "cover": "covers/psn/15720.webp",
+      "coverFit": "square"
     },
     {
       "title": "The Finals",
@@ -253,7 +301,9 @@
       "proof": "",
       "lastPlayed": "2024-01",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/24966.webp",
+      "coverFit": "square"
     },
     {
       "title": "Days Gone",
@@ -263,7 +313,9 @@
       "proof": "",
       "lastPlayed": "2024-01",
       "platinum": false,
-      "note": "Early"
+      "note": "Early",
+      "cover": "covers/psn/9035.webp",
+      "coverFit": "square"
     },
     {
       "title": "Mega Man 11",
@@ -273,7 +325,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "Not started"
+      "note": "Not started",
+      "cover": "covers/psn/8262.webp",
+      "coverFit": "square"
     },
     {
       "title": "Awesome Asteroids",
@@ -283,7 +337,9 @@
       "proof": "Platinum",
       "lastPlayed": "2024-01",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/21118.webp",
+      "coverFit": "square"
     },
     {
       "title": "Control",
@@ -293,7 +349,9 @@
       "proof": "Take Control (Mission 10)",
       "lastPlayed": "2024-01",
       "platinum": true,
-      "note": "Base-game platinum"
+      "note": "Base-game platinum",
+      "cover": "covers/psn/12184.webp",
+      "coverFit": "square"
     },
     {
       "title": "Moss",
@@ -303,7 +361,9 @@
       "proof": "A Promising Beginning (finish Book 1)",
       "lastPlayed": "2023-12",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/21153.webp",
+      "coverFit": "square"
     },
     {
       "title": "Call of Duty: Black Ops Cold War",
@@ -313,7 +373,9 @@
       "proof": "Combat Recruit (campaign complete)",
       "lastPlayed": "2023-12",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/11774.webp",
+      "coverFit": "square"
     },
     {
       "title": "Ghost of Tsushima",
@@ -323,7 +385,9 @@
       "proof": "Mono No Aware (final story trophy)",
       "lastPlayed": "2023-12",
       "platinum": true,
-      "note": "Base-game platinum; Iki Island open"
+      "note": "Base-game platinum; Iki Island open",
+      "cover": "covers/psn/13714.webp",
+      "coverFit": "square"
     },
     {
       "title": "Baldur's Gate III",
@@ -333,7 +397,9 @@
       "proof": "All's Well That Ends Well",
       "lastPlayed": "2023-12",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/23531.webp",
+      "coverFit": "square"
     },
     {
       "title": "Rocket League",
@@ -343,7 +409,9 @@
       "proof": "",
       "lastPlayed": "2023-08",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/3679.webp",
+      "coverFit": "square"
     },
     {
       "title": "Rogue Legacy 2",
@@ -353,7 +421,9 @@
       "proof": "",
       "lastPlayed": "2023-08",
       "platinum": false,
-      "note": "4 of 6 Estuaries"
+      "note": "4 of 6 Estuaries",
+      "cover": "covers/psn/22624.webp",
+      "coverFit": "square"
     },
     {
       "title": "Doom Eternal",
@@ -363,7 +433,9 @@
       "proof": "",
       "lastPlayed": "2023-06",
       "platinum": false,
-      "note": "First mission"
+      "note": "First mission",
+      "cover": "covers/psn/13285.webp",
+      "coverFit": "square"
     },
     {
       "title": "NBA 2K23",
@@ -373,7 +445,9 @@
       "proof": "",
       "lastPlayed": "2023-06",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/17957.webp",
+      "coverFit": "square"
     },
     {
       "title": "Fantasy Strike",
@@ -383,7 +457,9 @@
       "proof": "",
       "lastPlayed": "2023-06",
       "platinum": false,
-      "note": "No arcade clear"
+      "note": "No arcade clear",
+      "cover": "covers/psn/9420.webp",
+      "coverFit": "square"
     },
     {
       "title": "Red Matter 2",
@@ -393,7 +469,9 @@
       "proof": "Platinum",
       "lastPlayed": "2023-06",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/22237.webp",
+      "coverFit": "square"
     },
     {
       "title": "Nioh 2",
@@ -403,7 +481,9 @@
       "proof": "",
       "lastPlayed": "2023-05",
       "platinum": false,
-      "note": "Early"
+      "note": "Early",
+      "cover": "covers/psn/12253.webp",
+      "coverFit": "square"
     },
     {
       "title": "Gran Turismo 7",
@@ -413,7 +493,9 @@
       "proof": "Platinum (incl. Finale)",
       "lastPlayed": "2023-05",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/15576.webp",
+      "coverFit": "square"
     },
     {
       "title": "Synth Riders",
@@ -423,7 +505,9 @@
       "proof": "",
       "lastPlayed": "2023-05",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/21148.webp",
+      "coverFit": "square"
     },
     {
       "title": "Slay the Spire",
@@ -433,7 +517,9 @@
       "proof": "Beat Act 3 with all 4 characters",
       "lastPlayed": "2023-04",
       "platinum": false,
-      "note": "Act 4 Heart still open"
+      "note": "Act 4 Heart still open",
+      "cover": "covers/psn/9124.webp",
+      "coverFit": "square"
     },
     {
       "title": "Uncharted 4: A Thief's End",
@@ -443,7 +529,9 @@
       "proof": "Charted! - Moderate",
       "lastPlayed": "2023-04",
       "platinum": false,
-      "note": "From Legacy of Thieves Collection"
+      "note": "From Legacy of Thieves Collection",
+      "cover": "covers/psn/15250.webp",
+      "coverFit": "square"
     },
     {
       "title": "Uncharted: The Lost Legacy",
@@ -453,7 +541,9 @@
       "proof": "",
       "lastPlayed": "2023-04",
       "platinum": false,
-      "note": "From Legacy of Thieves Collection"
+      "note": "From Legacy of Thieves Collection",
+      "cover": "covers/psn/15250.webp",
+      "coverFit": "square"
     },
     {
       "title": "Returnal",
@@ -463,7 +553,9 @@
       "proof": "White Shadow (Act 3, true ending)",
       "lastPlayed": "2023-02",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/12751.webp",
+      "coverFit": "square"
     },
     {
       "title": "Bugsnax",
@@ -473,7 +565,9 @@
       "proof": "",
       "lastPlayed": "2022-09",
       "platinum": false,
-      "note": "Early"
+      "note": "Early",
+      "cover": "covers/psn/11772.webp",
+      "coverFit": "square"
     },
     {
       "title": "Darkest Dungeon",
@@ -483,7 +577,9 @@
       "proof": "",
       "lastPlayed": "2023-01",
       "platinum": false,
-      "note": "Final dungeon not cleared"
+      "note": "Final dungeon not cleared",
+      "cover": "covers/psn/5340.webp",
+      "coverFit": "square"
     },
     {
       "title": "It Takes Two",
@@ -493,7 +589,9 @@
       "proof": "Platinum",
       "lastPlayed": "2022-12",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/12518.webp",
+      "coverFit": "square"
     },
     {
       "title": "Horizon Zero Dawn",
@@ -503,7 +601,9 @@
       "proof": "",
       "lastPlayed": "2022-12",
       "platinum": false,
-      "note": "Early"
+      "note": "Early",
+      "cover": "covers/psn/5879.webp",
+      "coverFit": "square"
     },
     {
       "title": "Child of Light",
@@ -513,7 +613,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "Not started"
+      "note": "Not started",
+      "cover": "covers/psn/2578.webp",
+      "coverFit": "square"
     },
     {
       "title": "Mortal Kombat 11",
@@ -523,7 +625,9 @@
       "proof": "",
       "lastPlayed": "2022-11",
       "platinum": false,
-      "note": "Story unfinished"
+      "note": "Story unfinished",
+      "cover": "covers/psn/11813.webp",
+      "coverFit": "square"
     },
     {
       "title": "Deep Rock Galactic",
@@ -533,7 +637,9 @@
       "proof": "",
       "lastPlayed": "2022-11",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/15072.webp",
+      "coverFit": "square"
     },
     {
       "title": "Demon's Souls",
@@ -543,7 +649,9 @@
       "proof": "All archdemons incl. False King (good ending has no trophy)",
       "lastPlayed": "2022-11",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/11792.webp",
+      "coverFit": "square"
     },
     {
       "title": "Borderlands: The Pre-Sequel",
@@ -553,7 +661,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "Not started"
+      "note": "Not started",
+      "cover": "covers/psn/3437.webp",
+      "coverFit": "square"
     },
     {
       "title": "Stray",
@@ -563,7 +673,9 @@
       "proof": "Eye Opener (complete the game)",
       "lastPlayed": "2022-10",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/17011.webp",
+      "coverFit": "square"
     },
     {
       "title": "Hot Wheels Unleashed",
@@ -573,7 +685,9 @@
       "proof": "",
       "lastPlayed": "2022-10",
       "platinum": false,
-      "note": "Early"
+      "note": "Early",
+      "cover": "covers/psn/14007.webp",
+      "coverFit": "square"
     },
     {
       "title": "Death Stranding: Director's Cut",
@@ -583,7 +697,9 @@
       "proof": "",
       "lastPlayed": "2022-09",
       "platinum": false,
-      "note": "Episode 1 of 14"
+      "note": "Episode 1 of 14",
+      "cover": "covers/psn/13921.webp",
+      "coverFit": "square"
     },
     {
       "title": "Tony Hawk's Pro Skater 1 + 2",
@@ -593,7 +709,9 @@
       "proof": "",
       "lastPlayed": "2022-08",
       "platinum": false,
-      "note": "Early career"
+      "note": "Early career",
+      "cover": "covers/psn/12587.webp",
+      "coverFit": "square"
     },
     {
       "title": "Sekiro: Shadows Die Twice",
@@ -603,7 +721,9 @@
       "proof": "Dragon's Homecoming (Return ending)",
       "lastPlayed": "2022-08",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/8864.webp",
+      "coverFit": "square"
     },
     {
       "title": "Ratchet & Clank: Rift Apart",
@@ -613,7 +733,9 @@
       "proof": "Platinum",
       "lastPlayed": "2022-07",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/12996.webp",
+      "coverFit": "square"
     },
     {
       "title": "Final Fantasy VII Remake",
@@ -623,7 +745,9 @@
       "proof": "Destiny's Crossroads (Chapter 18)",
       "lastPlayed": "2022-07",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/13116.webp",
+      "coverFit": "square"
     },
     {
       "title": "Marvel's Spider-Man: Miles Morales",
@@ -633,7 +757,9 @@
       "proof": "Platinum",
       "lastPlayed": "2022-06",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/11805.webp",
+      "coverFit": "square"
     },
     {
       "title": "The Last of Us Remastered",
@@ -643,7 +769,9 @@
       "proof": "No Matter What - Normal",
       "lastPlayed": "2022-06",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/2752.webp",
+      "coverFit": "square"
     },
     {
       "title": "Elden Ring",
@@ -653,7 +781,9 @@
       "proof": "Platinum (all 3 endings)",
       "lastPlayed": "2022-05",
       "platinum": true,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/15539.webp",
+      "coverFit": "square"
     },
     {
       "title": "Astro's Playroom",
@@ -663,7 +793,9 @@
       "proof": "Play Has No Limits!",
       "lastPlayed": "2022-05",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/11753.webp",
+      "coverFit": "square"
     },
     {
       "title": "Knights and Bikes",
@@ -673,7 +805,9 @@
       "proof": "",
       "lastPlayed": "2022-02",
       "platinum": false,
-      "note": "Day 2 of 6"
+      "note": "Day 2 of 6",
+      "cover": "covers/psn/9454.webp",
+      "coverFit": "square"
     },
     {
       "title": "Persona 5",
@@ -683,7 +817,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "Not started"
+      "note": "Not started",
+      "cover": "covers/psn/6007.webp",
+      "coverFit": "square"
     },
     {
       "title": "Celeste",
@@ -693,7 +829,9 @@
       "proof": "",
       "lastPlayed": "2022-01",
       "platinum": false,
-      "note": "Chapter 1"
+      "note": "Chapter 1",
+      "cover": "covers/psn/7173.webp",
+      "coverFit": "square"
     },
     {
       "title": "Unravel Two",
@@ -703,7 +841,9 @@
       "proof": "Bounce Back (final chapter)",
       "lastPlayed": "2022-01",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/7757.webp",
+      "coverFit": "square"
     },
     {
       "title": "LEGO DC Super-Villains",
@@ -713,7 +853,9 @@
       "proof": "",
       "lastPlayed": "2022-01",
       "platinum": false,
-      "note": "Early"
+      "note": "Early",
+      "cover": "covers/psn/8315.webp",
+      "coverFit": "square"
     },
     {
       "title": "Pinball FX3",
@@ -723,7 +865,9 @@
       "proof": "",
       "lastPlayed": "2022-01",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/6665.webp",
+      "coverFit": "square"
     },
     {
       "title": "NHL 21",
@@ -733,7 +877,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "No ending"
+      "note": "No ending",
+      "cover": "covers/psn/11534.webp",
+      "coverFit": "square"
     },
     {
       "title": "Mortal Kombat X",
@@ -743,7 +889,9 @@
       "proof": "",
       "lastPlayed": "2021-11",
       "platinum": false,
-      "note": "Story unfinished"
+      "note": "Story unfinished",
+      "cover": "covers/psn/3491.webp",
+      "coverFit": "square"
     },
     {
       "title": "Bloodborne",
@@ -753,7 +901,9 @@
       "proof": "",
       "lastPlayed": "",
       "platinum": false,
-      "note": "Not started"
+      "note": "Not started",
+      "cover": "covers/psn/3431.webp",
+      "coverFit": "square"
     },
     {
       "title": "God of War",
@@ -763,7 +913,9 @@
       "proof": "Last Wish (spread the ashes)",
       "lastPlayed": "2021-11",
       "platinum": false,
-      "note": ""
+      "note": "",
+      "cover": "covers/psn/7523.webp",
+      "coverFit": "square"
     },
     {
       "title": "Portal",
