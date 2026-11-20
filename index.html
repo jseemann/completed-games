@@ -142,7 +142,7 @@ function renderControls() {
   document.getElementById("platforms").innerHTML = plats.map(p =>
     `<button data-p="${p}" class="${p === state.platform ? "on" : ""}">${p}${p !== "All" ? `<span class="n">${pc[p] || 0}</span>` : ""}</button>`).join("");
   const sc = counts(data.games.filter(g => state.platform === "All" || g.platform === state.platform), "status");
-  document.getElementById("statuses").innerHTML = [...Object.keys(STATUS), "all"].map(s =>
+  document.getElementById("statuses").innerHTML = [...Object.keys(STATUS).filter(s => data.games.some(g => g.status === s)), "all"].map(s =>
     `<button data-s="${s}" class="${s === state.status ? "on" : ""}">${STATUS[s] || "All"}${s !== "all" ? `<span class="n">${sc[s] || 0}</span>` : ""}</button>`).join("");
 }
 
