@@ -223,7 +223,7 @@ document.addEventListener("click", e => {
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
 document.getElementById("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
 
-fetch("games.json").then(r => r.json()).then(d => {
+fetch("games.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
   data = d;
   document.getElementById("sub").textContent =
     `${d.games.filter(g => g.status === "beaten").length} games played to the credits, across every platform I own.`;
