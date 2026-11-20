@@ -83,7 +83,7 @@ There is no web page for Game Center. The data is only in the **Games** app on J
 
 ## Nintendo
 
-Nintendo has no achievement system to read. Switch games are added by hand when Jason names them, marked `manual: true`, and dated by their Switch release year (`dateIsRelease: true`). Skip Nintendo on scheduled runs.
+Nintendo has no achievement system to read. Switch games are added by hand when Jason names them, marked `manual: true`, and dated with the year Jason says he finished them. Cover art comes from the game's Nintendo eShop page (`og:image`), or Wikipedia if the game was delisted, saved under `covers/nintendo/`. Skip Nintendo on scheduled runs.
 
 ## Finish
 

@@ -2918,11 +2918,11 @@
       "system": "Switch",
       "status": "beaten",
       "proof": "Confirmed by me",
-      "lastPlayed": "2017",
-      "dateIsRelease": true,
+      "lastPlayed": "2021",
       "platinum": false,
       "note": "",
-      "manual": true
+      "manual": true,
+      "cover": "covers/nintendo/mario-kart-8-deluxe-switch.webp"
     },
     {
       "title": "Super Mario Odyssey",
@@ -2930,11 +2930,11 @@
       "system": "Switch",
       "status": "beaten",
       "proof": "Confirmed by me",
-      "lastPlayed": "2017",
-      "dateIsRelease": true,
+      "lastPlayed": "2022",
       "platinum": false,
       "note": "",
-      "manual": true
+      "manual": true,
+      "cover": "covers/nintendo/super-mario-odyssey-switch.webp"
     },
     {
       "title": "Dark Souls: Remastered",
@@ -2942,11 +2942,11 @@
       "system": "Switch",
       "status": "beaten",
       "proof": "Confirmed by me",
-      "lastPlayed": "2018",
-      "dateIsRelease": true,
+      "lastPlayed": "2021",
       "platinum": false,
       "note": "",
-      "manual": true
+      "manual": true,
+      "cover": "covers/nintendo/dark-souls-remastered-switch.webp"
     },
     {
       "title": "Crayola Scoot",
@@ -2954,11 +2954,12 @@
       "system": "Switch",
       "status": "beaten",
       "proof": "Confirmed by me",
-      "lastPlayed": "2018",
-      "dateIsRelease": true,
+      "lastPlayed": "2022",
       "platinum": false,
       "note": "",
-      "manual": true
+      "manual": true,
+      "cover": "covers/nintendo/crayola-scoot-switch.webp",
+      "coverFit": "square"
     }
   ],
   "excluded": []
