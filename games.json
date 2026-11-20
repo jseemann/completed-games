@@ -923,11 +923,12 @@
       "system": "PC",
       "status": "beaten",
       "proof": "Heartbreaker (complete Portal)",
-      "lastPlayed": "",
+      "lastPlayed": "2007",
       "platinum": false,
       "note": "",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg",
-      "steamAppId": 400
+      "steamAppId": 400,
+      "dateIsRelease": true
     },
     {
       "title": "Portal 2",
