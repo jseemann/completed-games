@@ -22,10 +22,14 @@ The page is `index.html`. All the data lives in `games.json`, so adding a game m
 
 - `platform`: the store or ecosystem: `PlayStation`, `Steam` or `Apple`. Each value gets its own filter tab automatically.
 - `system`: the badge on the card, such as `PS5`, `PS VR2`, `PC`, `Mac` or `iPhone`.
-- `status`: one of `beaten`, `unfinished` or `endless` (games with no ending, like Rocket League).
+- `status`: one of `beaten`, `unfinished`, `unknown` (shown as "No proof": the game has no achievement that marks the ending, so it can't be verified) or `endless` (games with no ending, like Rocket League).
 - `proof`: the trophy or achievement that shows the game was finished.
-- `lastPlayed`: `YYYY-MM`. For PlayStation this is the month of the last trophy earned.
+- `lastPlayed`: `YYYY-MM`. The month of the last trophy or achievement earned.
 - `cover`: optional image URL. Without one, the card uses a colored tile with the game's initials.
+
+## Steam
+
+Steam games use the store's header art as the cover. The list includes every game with an achievement unlocked or at least an hour of playtime; untouched library games are left out.
 
 ## How "beaten" is decided
 

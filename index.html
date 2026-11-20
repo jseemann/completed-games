@@ -87,7 +87,7 @@
   .proof { color: var(--muted); font-size: 13px; }
   .meta { margin-top: auto; padding-top: 8px; display: flex; justify-content: space-between; color: var(--muted); font-size: 12px; }
   .status-beaten .meta .st { color: var(--accent); }
-  .status-unfinished { opacity: .78; }
+  .status-unfinished, .status-unknown { opacity: .78; }
   .empty { color: var(--muted); padding: 60px 0; text-align: center; }
   footer { margin-top: 48px; color: var(--muted); font-size: 13px; }
   footer a { color: var(--muted); }
@@ -117,7 +117,7 @@
 </div>
 
 <script>
-const STATUS = { beaten: "Beaten", unfinished: "Unfinished", endless: "No ending" };
+const STATUS = { beaten: "Beaten", unfinished: "Unfinished", unknown: "No proof", endless: "No ending" };
 const state = { platform: "All", status: "beaten", q: "", sort: "recent" };
 let data;
 
@@ -176,8 +176,8 @@ function render() {
     const bg = `linear-gradient(135deg, hsl(${h} 55% 42%), hsl(${(h + 50) % 360} 60% 22%))`;
     return `<article class="card status-${g.status}">
       <div class="cover" style="background:${bg}">
-        ${g.cover ? `<img src="${esc(g.cover)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
         <span class="mono">${esc(initials(g.title))}</span>
+        ${g.cover ? `<img src="${esc(g.cover)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
         <div class="badges">
           ${g.platinum ? `<span class="badge plat">Platinum</span>` : ""}
           <span class="badge">${esc(g.system)}</span>
